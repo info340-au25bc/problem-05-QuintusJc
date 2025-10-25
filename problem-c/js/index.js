@@ -177,3 +177,4 @@ const avgScoreDifference = huskyGames2016.reduce(function(total, game) {
 
 console.log(avgScoreDifference);
 
+
